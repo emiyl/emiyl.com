@@ -1,0 +1,39 @@
+I"�<p>Hi, I’m Emma. I’m a musician/developer of sorts. I’ve worked on a few projects such as <a href="https://cfw.guide/">cfw.guide</a> and <a href="https://github.com/emiyl/dumpling">dumpling</a>. I’m also currently working on writing my own game, with music written by myself.</p>
+
+<h2 id="cfwguide">cfw.guide</h2>
+
+<p><a href="https://cfw.guide/">cfw.guide</a> is a website dedicated to providing easy to understand, beginner level instructions for console hacking. It’s written with the idea that where people can go wrong, people will go wrong, so targets at being as clear as possible, providing a simple, step-by-step experience.</p>
+
+<p><img src="/assets/images/cydia_picture.jpg" alt="Picture of a Jailbroken iPhone" /></p>
+
+<p>The site started as just for the <a href="https://vita.hacks.guide">PlayStation Vita</a> and <a href="https://vita.hacks.guide">PlayStation TV</a> consoles. It has since evolved to support guides for the <a href="https://dsi.cfw.guide/">Nintendo DSi</a>, Apple’s <a href="https://ios.cfw.guide/">iOS</a> and the <a href="https://cemu.cfw.guide/">Cemu Emulator</a> for Wii U games. Starting out with just me, the guides have expanded, with multiple writers working on the site.</p>
+
+<p>I’d like to thank <a href="https://github.com/Plailect">Plailect</a> for creating the guide format that inspired cfw.guide, with his website <a href="https://hacks.guide/">hacks.guide</a>, which the PlayStation Vita guide is now a part of, as a collaboration between us both. He has since left the website to go on to do bigger and better things.</p>
+
+<h2 id="dumpling">dumpling</h2>
+
+<p><img style="float: right;" src="/assets/images/dumpling.png" alt="dumpling logo" width="80" height="80" /></p>
+
+<p><a href="https://github.com/emiyl/dumpling">dumpling</a> is a project that aims to make dumping Wii U games, updates and DLC easier. The dumps are in a decrypted format, ready to use in the <a href="https://cemu.info/">Cemu</a> emulator.</p>
+
+<p>Before dumpling existed, it was rather difficult and time-consuming to actually get games off the console. Two methods included:</p>
+
+<ol>
+  <li>Copying over FTP, which is slow and unreliable</li>
+  <li>Extracting a NAND dump, which is slow and doesn’t allow dumping from USB sources</li>
+</ol>
+
+<p>Due to the difficulty of dumping the games for use in the emulator, a lot of people resorted to less than legal ways to get the games. dumpling aims to combat this by making it easier and faster to dump games, to an SD card or FAT32 formatted USB device.</p>
+
+<p>The latest 1.1.2 version of dumpling has issues with a poorly optimised FAT driver that makes dumping certain folders extremely slow. This tends to occur when the folder has a large amount of files that start with the same letters. Unfortunately, one of the Wii U’s biggest games, Breath of the Wild, has some of the aforementioned folders.</p>
+
+<p>I have worked with <a href="https://github.com/Crementif">Crementif</a> and the next release of dumpling will include a modified driver, a rewrite of the whole program, and a GUI.</p>
+
+<p><img src="/assets/images/dumplingGUI.png" alt="dumpling GUI screenshot" /></p>
+
+<h2 id="dungeonnx">DungeonNX</h2>
+
+<p>DungeonNX is a little videogame project I’m writing to teach myself some programming. It’s not much yet, but as a first start I’m quite proud of it. It’s being developed for the Nintendo Switch and uses C and SDL. An image of the first room is shown below, from a test build for macOS.</p>
+
+<p><img src="/assets/images/DungeonNX.png" alt="DungeonNX screenshot" /></p>
+:ET
