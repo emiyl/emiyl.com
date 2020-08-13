@@ -27,9 +27,7 @@ Before dumpling existed, it was rather difficult and time-consuming to actually 
 
 Due to the difficulty of dumping the games for use in the emulator, a lot of people resorted to less than legal ways to get the games. dumpling aims to combat this by making it easier and faster to dump games, to an SD card or FAT32 formatted USB device.
 
-The latest 1.1.2 version of dumpling has issues with a poorly optimised FAT driver that makes dumping certain folders extremely slow. This tends to occur when the folder has a large amount of files that start with the same letters. Unfortunately, one of the Wii U's biggest games, Breath of the Wild, has some of the aforementioned folders.
-
-I have worked with [Crementif](https://github.com/Crementif) and the next release of dumpling will include a modified driver, a rewrite of the whole program, and a GUI.
+The project is now maintained as a collaboration between [Crementif](https://github.com/Crementif) and myself.
 
 <img src="/assets/images/dumplingGUI.png" alt="dumpling GUI screenshot">
 
