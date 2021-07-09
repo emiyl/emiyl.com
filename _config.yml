@@ -21,7 +21,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: emiyl0
+    #twitter: emiyl0
     github:  emiyl
     rss: rss
 
