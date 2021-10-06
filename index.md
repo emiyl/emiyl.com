@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Hi, I'm Emma. I'm a musician/developer of sorts. I've worked on a few projects such as [cfw.guide](https://cfw.guide/) and [dumpling](https://github.com/emiyl/dumpling). I'm also currently working on writing my own game, with music written by myself.
+Hi, I'm Emma. I'm a developer and a musician. I've worked on a few projects such as [cfw.guide](https://cfw.guide/) and [dumpling](https://github.com/emiyl/dumpling). I'm also currently working on writing my own game, with music written by myself.
 
 ## cfw.guide
 
@@ -10,9 +10,7 @@ Hi, I'm Emma. I'm a musician/developer of sorts. I've worked on a few projects s
 
 <img src="/assets/images/cydia_picture.jpg" alt="Picture of a Jailbroken iPhone">
 
-The site started as just for the [PlayStation Vita](https://vita.hacks.guide) and [PlayStation TV](https://vita.hacks.guide) consoles. It has since evolved to support guides for the [Nintendo DSi](https://dsi.cfw.guide/), Apple's [iOS](https://ios.cfw.guide/) and the [Cemu Emulator](https://cemu.cfw.guide/) for Wii U games. Starting out with just me, the guides have expanded, with multiple writers working on the site.
-
-I'd like to thank [Plailect](https://github.com/Plailect) for creating the guide format that inspired cfw.guide, with his website [hacks.guide](https://hacks.guide/), which the PlayStation Vita guide is now a part of, as a collaboration between us both. He has since left the website to go on to do bigger and better things.
+The site started as just for the [PlayStation Vita](https://vita.hacks.guide) and [PlayStation TV](https://vita.hacks.guide) consoles. It has since evolved to support guides for the [Nintendo DSi](https://dsi.cfw.guide/), Apple's [iOS](https://ios.cfw.guide/) and the [Cemu Emulator](https://cemu.cfw.guide/) for Wii U games. All the guides are open for anyone to make changes via GitHub.
 
 ## dumpling
 
