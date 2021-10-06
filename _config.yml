@@ -2,7 +2,7 @@ title: emiyl's Site
 author: emiyl
 email: me@emiyl.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Musician and Developer
+  Developer and Musician
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -13,7 +13,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: emiyl
-  tagline: Musician and Developer
+  tagline: Developer and Musician
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
